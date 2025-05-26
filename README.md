@@ -52,6 +52,6 @@ predictive_maintenance_project/
 
 ### Видео-демонстрация
 
-[Смотреть демо](video.mp4)
+[Смотреть демо](https://github.com/norutplz/predictive_maintenance_project/issues/1#issue-3089676861)
 
 
